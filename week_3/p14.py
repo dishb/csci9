@@ -36,8 +36,26 @@ Sample run:
 How many numbers do you want to enter? 4
 
 Please enter number 1: 3
+
 Please enter number 2: -4
+
 Please enter number 3: -6
+
+Please enter number 4: 5
+
+The sum of all positive numbers is: 8
+The sum of all negative numbers is: -10
+The total sum of all numbers is: -2
+
+Do you want to repeat? (Y/n) y
+
+
+Please enter number 1: 3
+
+Please enter number 2: -4
+
+Please enter number 3: -6
+
 Please enter number 4: 5
 
 The sum of all positive numbers is: 8
